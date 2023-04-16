@@ -13,7 +13,7 @@ Know the worth of your currency in just one click!
 
 ## Getting Started
 
- ![Click Here](https://a-prem7.github.io/currency-converter/) to see the deployed app in action!
+ ! [Click Here](https://a-prem7.github.io/currency-converter/) to see the deployed app in action!
 
 ## Future Enhancements
 Update currency value every minute
