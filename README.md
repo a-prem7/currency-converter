@@ -12,7 +12,7 @@ Know the worth of your currency in just one click!
 
 ## Screenshot
 
-![Screenshot](![Alt text](<Screenshot 2023-06-23 at 5.22.17 PM.png>))
+![Screenshot](![Alt text](![Alt text](<Screenshot 2023-06-23 at 5.39.44 PM.png>)))
 
 ## Getting Started
 
