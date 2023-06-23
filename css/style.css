@@ -12,7 +12,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   padding: 0 10px;
-  background-image: url("https://images.pexels.com/photos/3790639/pexels-photo-3790639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-image: url("https://images.pexels.com/photos/3564390/pexels-photo-3564390.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
   background-size: cover;
   
 }
@@ -109,9 +109,9 @@ body{
     color: #fff;
     font-size: 17px;
     cursor: pointer;
-    background: brown;
+    background: rgb(15, 100, 35);
     transition: 0.3s ease;
   }
   form button:hover{
-    background: rgb(91, 36, 36);
+    background: rgb(7, 77, 97);
   }
